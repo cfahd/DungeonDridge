@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DungeonDrudge
+</name>
+</assembly>
+<members>
+<member name="T:DungeonDrudge.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.allowed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.Dice0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.Dice1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.Dice2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.Dice3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.Dice4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.Dice5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.Dice6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.elevenarcher">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.humanfighter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.mage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.notallow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DungeonDrudge.My.Resources.Resources.turtlemonk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
